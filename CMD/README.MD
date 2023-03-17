@@ -1,6 +1,6 @@
 ### CMD Instruction.
 
-CMD is the instruction which runs the container.
+CMD is the instruction which runs the container. it should run foreground and it should run infinite times
 
 ### RUN vs CMD
 
