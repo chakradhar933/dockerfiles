@@ -1,10 +1,12 @@
-###Dockerfiles
+### Dockerfiles
 
 Dockerfile is a declaritive way of creating our own images. Docker will give some syntax to create our own images.
 
 Filename should be Dockerfile
 
-###How to build image from dockerfile?
+### How to build image from dockerfile?
 ```
 docker build -t[docker-hub-url]/[image-name]:version.
 ```
+
+### How to push docker image to dockerhub.
