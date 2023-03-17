@@ -6,7 +6,11 @@ Filename should be Dockerfile
 
 ### How to build image from dockerfile?
 ```
-docker build -t[docker-hub-url]/[image-name]:version.
+docker build -t[docker-hub-url]/[image-name]/from:version .
 ```
 
 ### How to push docker image to dockerhub.
+
+```
+docker push <image name>:version
+```
