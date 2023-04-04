@@ -1,3 +1,3 @@
-###FROM
+### Dockerfiles
 
-FROM should be the first instruction in your dockerfiles
+Dockerfile is declaritive way of creating our own images. Docker will give some syntax to create our own images.
