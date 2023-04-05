@@ -1,2 +1,2 @@
 FROM almalinux
-ADD https://github.com/chakradhar933/linux-scrach/blob/master/README.md/tmp/
+ADD https://github.com/chakradhar933/terra/blob/master/resourses.tf/tmp/
