@@ -1,0 +1,5 @@
+FROM almalinux
+ENV AUTHOR="CHAKRADHAR"/
+    DURATION="25 HOURS"/
+    COURSE="DOCKER"
+    
