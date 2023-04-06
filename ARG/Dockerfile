@@ -1,5 +1,5 @@
 ARG VERSION
-FROM almalinux:${VERSION-8}
+FROM almalinux:${VERSION:-8}
 ARG GREETING="hello devops"
 ENV GREETS=${"GREETING"}
 RUN echo "$GREETING"
